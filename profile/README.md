@@ -1,12 +1,17 @@
-## Hi there 👋
+## About
 
-<!--
+Open Spaced Repetition (OSR) is an open-source community dedicated to the advancement of spaced repetition algorithms. We are the creators of the Free Spaced Repetition Scheduler (FSRS), which is backed by academic literatures and experiments. FSRS has been implemented in various programming languages, including Javascript, Golang, Rust, Python, and so on.
 
-**Here are some ideas to get you started:**
+## Mission
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Our mission is to develop efficient, effective, and accessible spaced repetition algorithms that can be readily integrated into any educational software or system.
+
+## Features
+
+- **Multiple Language Support**: [fsrs.js](https://github.com/open-spaced-repetition/fsrs.js), [go-fsrs](https://github.com/open-spaced-repetition/go-fsrs), [rs-fsrs](https://github.com/open-spaced-repetition/rs-fsrs), [py-fsrs](https://github.com/open-spaced-repetition/py-fsrs), [cljc-fsrs](https://github.com/open-spaced-repetition/cljc-fsrs), [swift-fsrs](https://github.com/open-spaced-repetition/swift-fsrs) and [ex_fsrs](https://github.com/open-spaced-repetition/ex_fsrs)
+- **Scientifically-Backed**:
+  - [A Stochastic Shortest Path Algorithm for Optimizing Spaced Repetition Scheduling | Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining](https://dl.acm.org/doi/10.1145/3534678.3539081)
+  - [Optimizing Spaced Repetition Schedule by Capturing the Dynamics of Memory | IEEE Journals & Magazine | IEEE Xplore](https://ieeexplore.ieee.org/document/10059206)
+  - [open-spaced-repetition/fsrs-benchmark: A benchmark for spaced repetition algorithms (github.com)](https://github.com/open-spaced-repetition/fsrs-benchmark)
+
+- **Production-Ready**: [fsrs4anki](https://github.com/open-spaced-repetition/fsrs4anki), [fsrs4tw](https://github.com/open-spaced-repetition/fsrs4tw), [obsidian-spaced-repetition-recall](https://github.com/open-spaced-repetition/obsidian-spaced-repetition-recall), [fsrs4remnote](https://github.com/open-spaced-repetition/fsrs4remnote) and so on.
