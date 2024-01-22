@@ -8,7 +8,7 @@ Our mission is to develop efficient, effective, and accessible spaced repetition
 
 ## Features
 
-- **Multiple Language Support**: [fsrs.js](https://github.com/open-spaced-repetition/fsrs.js), [go-fsrs](https://github.com/open-spaced-repetition/go-fsrs), [rs-fsrs](https://github.com/open-spaced-repetition/rs-fsrs), [py-fsrs](https://github.com/open-spaced-repetition/py-fsrs), [cljc-fsrs](https://github.com/open-spaced-repetition/cljc-fsrs), [swift-fsrs](https://github.com/open-spaced-repetition/swift-fsrs) and [ex_fsrs](https://github.com/open-spaced-repetition/ex_fsrs)
+- **Multiple Language Support**: [ts-fsrs](https://github.com/open-spaced-repetition/ts-fsrs), [fsrs.js](https://github.com/open-spaced-repetition/fsrs.js), [go-fsrs](https://github.com/open-spaced-repetition/go-fsrs), [rs-fsrs](https://github.com/open-spaced-repetition/rs-fsrs), [py-fsrs](https://github.com/open-spaced-repetition/py-fsrs), [cljc-fsrs](https://github.com/open-spaced-repetition/cljc-fsrs), [swift-fsrs](https://github.com/open-spaced-repetition/swift-fsrs) and [ex_fsrs](https://github.com/open-spaced-repetition/ex_fsrs)
 - **Scientifically-Backed**:
   - [A Stochastic Shortest Path Algorithm for Optimizing Spaced Repetition Scheduling | Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining](https://dl.acm.org/doi/10.1145/3534678.3539081)
   - [Optimizing Spaced Repetition Schedule by Capturing the Dynamics of Memory | IEEE Journals & Magazine | IEEE Xplore](https://ieeexplore.ieee.org/document/10059206)
