@@ -14,4 +14,4 @@ Our mission is to develop efficient, effective, and accessible spaced repetition
   - [Optimizing Spaced Repetition Schedule by Capturing the Dynamics of Memory | IEEE Journals & Magazine | IEEE Xplore](https://ieeexplore.ieee.org/document/10059206)
   - [open-spaced-repetition/fsrs-benchmark: A benchmark for spaced repetition algorithms (github.com)](https://github.com/open-spaced-repetition/fsrs-benchmark)
 
-- **Production-Ready**: [fsrs4anki](https://github.com/open-spaced-repetition/fsrs4anki), [fsrs4tw](https://github.com/open-spaced-repetition/fsrs4tw), [obsidian-spaced-repetition-recall](https://github.com/open-spaced-repetition/obsidian-spaced-repetition-recall), [fsrs4remnote](https://github.com/open-spaced-repetition/fsrs4remnote) and so on.
+- **Production-Ready**: [fsrs4anki](https://github.com/open-spaced-repetition/fsrs4anki), [fsrs-rs](https://github.com/open-spaced-repetition/fsrs-rs), [fsrs4tw](https://github.com/open-spaced-repetition/fsrs4tw), [obsidian-spaced-repetition-recall](https://github.com/open-spaced-repetition/obsidian-spaced-repetition-recall), [fsrs4remnote](https://github.com/open-spaced-repetition/fsrs4remnote) and so on.
