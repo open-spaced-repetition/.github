@@ -18,3 +18,7 @@ Our mission is to develop efficient, effective, and accessible spaced repetition
   - [open-spaced-repetition/srs-benchmark: A benchmark for spaced repetition schedulers/algorithms (github.com)](https://github.com/open-spaced-repetition/srs-benchmark)
 
 - **Plugin & Add-on**: [fsrs4anki-helper](https://github.com/open-spaced-repetition/fsrs4anki-helper), [fsrs4tw](https://github.com/open-spaced-repetition/fsrs4tw), [obsidian-spaced-repetition-recall](https://github.com/open-spaced-repetition/obsidian-spaced-repetition-recall), [fsrs4remnote](https://github.com/open-spaced-repetition/fsrs4remnote) and so on.
+
+## Acknowledgements
+
+A special thanks to [墨墨背单词 (MaiMemo Inc.)](https://www.maimemo.com/) for their support of FSRS development by allowing its research engineer, [Jarrett Ye](https://github.com/L-M-Sherlock), to dedicate part of his working hours to this open-source project. This greatly helps in the continuous improvement and maintenance of FSRS for the benefit of the entire community.
